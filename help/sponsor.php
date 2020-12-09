@@ -37,7 +37,7 @@
     <meta name="theme-color" content="#0e67bf" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         media="all" />
-    <link rel="stylesheet" href="./assets/styles/test.css" media="all" />
+    <link rel="stylesheet" href="https://robuxs.land/assets/styles/test.css" media="all" />
     <link href="https://kit-pro.fontawesome.com/releases/latest/css/pro.min.css" media="all" rel="stylesheet" />
     <style>
         .pace .pace-progress {
