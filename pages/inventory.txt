@@ -1,0 +1,169 @@
+<div class="album py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 fade-in-100">
+                <div class="bg-primary p-4" style="border-radius: 3px; background-image: url(assets/chests/common-background-min.png); background-size: cover;">
+                    <span><img alt="Chest" src="assets/chests/common-chest.png" style="width: 94px; float: right;" /></span>
+                    <div class="text-left text-white">
+                        <h2 class="counter text-white">BASIC</h2>
+                        <span>Max Prize: 30R$</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 fade-in-150">
+                <div class="bg-primary p-4" style="border-radius: 3px; background-image: url(assets/chests/rare-background-min.png); background-size: cover;">
+                    <span><img alt="Chest" src="assets/chests/rare-chest.png" style="float: right; width: 94px;" /></span>
+                    <div class="text-left text-white">
+                        <h2 class="counter text-white">RARE</h2>
+                        MAX PRIZE: 150R$
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 fade-in-200">
+                <div class="bg-primary p-4" style="border-radius: 3px; background-image: url(assets/chests/godly-background-min.png); background-size: cover;">
+                    <span><img alt="Chest" src="assets/chests/godly-chest.png" style="width: 87px; float: right;" /></span>
+                    <div class="text-left text-white">
+                        <h2 class="counter text-white">GODLY</h2>
+                        Max Prize: 1,000R$
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h2 class="text-center fade-in-150" style="margin-top: 30px; margin-bottom: 30px;">Your Chests <img src="assets/chests/rsz_1emoji_treasure_chest.png" style="
+            width: 32px;
+            margin-bottom: 5px;
+            "></h2>
+        <div class="row" style="padding-right: 15px; padding-left: 15px;">
+            <div class="col-md-3 chest-card fade-in-200">
+                <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three" style="padding: 5px !important; font-size: 25px; background-color: #9a9a9a !important;">STARTER CHEST</div>
+                <div style="background-color: #efefef; border-radius: 5px; padding: 15px;">
+                    <div class="video-container">
+                        <img alt="Chest" src="assets/chests/event-chest.png" />
+                    </div>
+                    <button
+                        class="custom-btn custom-blue custom-btn-xs"
+                        style="outline: none !important; padding-top: 5px !important; width: 100%; padding-bottom: 5px !important;"
+                        >
+                    OPEN!
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-3 chest-card fade-in-250">
+                <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three" style="padding: 5px !important; font-size: 25px; background-color: #b66c02 !important;">BASIC CHEST</div>
+                <div style="background-color: #efefef; border-radius: 5px; padding: 15px;">
+                    <div class="video-container">
+                        <img alt="Chest" src="assets/chests/basic-mystery-min.png" />
+                    </div>
+                    <div class="progress" style="background-color: #d8d8d8;">
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>
+                    </div>
+                    <h6 class="text-center" style="margin-top: 13px; margin-bottom: 0px;">Complete <span>0</span>/3 Offers!</h6>
+                </div>
+            </div>
+            <div class="col-md-3 chest-card fade-in-300">
+                <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three" style="padding: 5px !important; font-size: 25px; background-color: #feb124 !important;">RARE CHEST</div>
+                <div style="background-color: #efefef; border-radius: 5px; padding: 15px;">
+                    <div class="video-container">
+                        <img alt="Chest" src="assets/chests/rare-mystery-min.png" />
+                    </div>
+                    <div class="progress" style="background-color: #d8d8d8;">
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>
+                    </div>
+                    <h6 class="text-center" style="margin-top: 13px; margin-bottom: 0px;">Complete <span>0</span>/5 Offers!</h6>
+                </div>
+            </div>
+            <div class="col-md-3 chest-card fade-in-350">
+                <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three" style="padding: 5px !important; font-size: 25px; background-color: #12b9b3 !important;">GODLY CHEST</div>
+                <div style="background-color: #efefef; border-radius: 5px; padding: 15px;">
+                    <div class="video-container">
+                        <img alt="Chest" src="assets/chests/godly-mystery-min.png" />
+                    </div>
+                    <div class="progress" style="background-color: #d8d8d8;">
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>
+                    </div>
+                    <h6 class="text-center" style="margin-top: 13px; margin-bottom: 0px;">Complete <span>0</span>/10 Offers!</h6>
+                </div>
+            </div>
+        </div>
+        <div class="my-3 p-3 bg-white rounded shadow-sm text-left">
+            <div class="row">
+                <div class="col-sm-6" style="text-align: left;">
+                    <div style="max-height: 400px; height: auto;border-radius:20px;" class="card align-self-stretch">
+                        <iframe
+                            allowfullscreen=""
+                            title="Youtube Video"
+                            id="iframeyoutube"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            frameborder="0"
+                            src="https://www.youtube.com/embed/st_vDoeCc-A"
+                            width="100%"
+                            height="300"
+                            style="border-radius:20px;"
+                            ></iframe>
+                    </div>
+                </div>
+                <div class="col-sm-6" style="margin-top: 20px;">
+                    <h5>Biggest Winners &#x1F334;</h5>
+                    <hr />
+                    <div class="media text-muted pt-3" style="padding-top: 0px !important;">
+                        <img
+                            class="mr-2 rounded"
+                            alt="Profile"
+                            src="https://cdn.discordapp.com/attachments/700762417017389136/718167352960614520/Screenshot_2020-06-04_at_19.20.31.png"
+                            style="width: 60px; border-radius: 100% !important; border: 2px solid #eee;"
+                            />
+                        <div class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray" style="margin-top: 5px; padding-bottom: 5 !important; color: black;">
+                            <h5 class="d-block" style="font-size: 19px; margin-bottom: 3px;">
+                                <span>J7Q****</span>
+                                <span class="badge badge-success" style="float: right; display: inline-block !important; font-size: 22px;"><span>823233</span> <img alt="Robux" src="assets/robux-png.png" style="width: 24px; margin-bottom: 2px;" /></span>
+                            </h5>
+                            <span style="">Won <span>821233</span> robux from <span style="color: #16cac3;">GODLY</span> chest</span>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="media text-muted pt-3" style="padding-top: 5px !important;">
+                        <img
+                            class="mr-2 rounded"
+                            alt="Profile"
+                            src="https://www.roblox.com/Thumbs/Avatar.ashx?x=150&amp;y=150&amp;Format=Png&amp;username=GrlygamerYT"
+                            style="width: 60px; border-radius: 100% !important; border: 2px solid #eee;"
+                            />
+                        <div class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray" style="margin-top: 5px; padding-bottom: 5 !important; color: black;">
+                            <h5 class="d-block" style="font-size: 19px; margin-bottom: 3px;">
+                                <span>axe****</span>
+                                <span class="badge badge-success" style="float: right; display: inline-block !important; font-size: 22px;"><span>740</span> <img alt="Robux" src="assets/robux-png.png" style="width: 24px; margin-bottom: 2px;" /></span>
+                            </h5>
+                            Won <span>740</span> robux from <span style="color: #16cac3;">GODLY</span> chest
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="media text-muted pt-3" style="padding-top: 5px !important;">
+                        <img
+                            class="mr-2 rounded"
+                            alt="Profile"
+                            src="https://www.roblox.com/Thumbs/Avatar.ashx?x=150&amp;y=150&amp;Format=Png&amp;username=GrlygamerYT"
+                            style="width: 60px; border-radius: 100% !important; border: 2px solid #eee;"
+                            />
+                        <div class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray" style="margin-top: 5px; padding-bottom: 5 !important; color: black;">
+                            <h5 class="d-block" style="font-size: 19px; margin-bottom: 3px;">
+                                <span>axe****</span>
+                                <span class="badge badge-success" style="float: right; display: inline-block !important; font-size: 22px;"><span>659</span> <img alt="Robux" src="assets/robux-png.png" style="width: 24px; margin-bottom: 2px;" /></span>
+                            </h5>
+                            Won <span>659</span> robux from <span style="color: #d400d4;">EVENT</span> chest
+                        </div>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container marketing py-5">
+    <div class="row">
+        <div class="col-lg-3"></div>
+        <div class="col-lg-6">
+            <a type="button" href="#/withdraw" class="btn btn-primary waves-effect waves-light btn-block">Claim Daily Reward!</a>
+        </div>
+        <div class="col-lg-3"></div>
+    </div>
+</div>

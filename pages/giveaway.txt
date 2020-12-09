@@ -1,0 +1,70 @@
+<div>
+    <div class="album py-5 bg-light fade-in-100" style="background-color: #000f31 !important; min-height: 261px; background-image: url(https://rbxboost.com/img/illustration-b@2x1.28a9e8a2.png);">
+        <div class="container fade-in-300">
+            <h2 class="text-white text-center">Join Giveaway!</h2>
+            <div class="row mt-4">
+                <div class="col-md-4 text-center text-white">
+                    <h3 style="color: #2ee358;">5 ROBUX</h3>
+                    <h6>PRIZE</h6>
+                </div>
+                <div class="col-md-4 text-center text-white">
+                    <h3 style="color: #009fff;">15m, 0s</h3>
+                    <h6>TIME LEFT</h6>
+                </div>
+                <div class="col-md-4 text-center text-white">
+                    <h3 style="color: #ffc90b;">0%</h3>
+                    <h6>YOUR CHANCE</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="album py-5 bg-light" style="background-image: url(assets/img/spring-background.png); padding-top: 0 !important;">
+        <div class="container">
+            <div class="row">
+                <div style="top: -60px;" class="col-md-5 mx-auto">
+                    <button class="custom-btn custom-blue waves-effect waves-light fade-in-bottom" style="width: 100%; cursor: pointer !important; outline: 0; margin-top: 25px; width: 100%;-webkit-transition: all 0.15s ease-out!important;transition: all 0.15s ease-out!important;border-radius: 12px !important;
+font-size: 30px;
+padding: 10px;"><b>ENTER!</b></button>
+                </div>
+            </div>
+
+            <div class="fade-in-200 mx-auto shadow-sm" style="max-width:850px;">
+                <br />
+                <div
+                    style="padding: 15px; width: 100%; background-color: #00b5ff; border-radius: 5px 5px 0px 0px; border-bottom-left-radius: 0px !important; border-bottom-right-radius: 0px !important; font-size: 19px;"
+                    class="text-white text-center"
+                >
+                    Recent Winners &#128176;
+                </div>
+                <div style="max-height: 500px;">
+                    <table style="border-top-left-radius: 0px !important; border-top-right-radius: 0px !important;" class="rounded table is-fullwidth is-hoverable">
+                        <thead>
+                            <tr>
+                                <th style="padding: 20px; text-align: center;width:50px;">Username</th>
+                                <th scope="col" style="padding: 20px; text-align: right;width:100%;">Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <tr class="fade-in-200" style="background-color: #fff!important;">
+                                    <td style="padding-top: 18px;">
+                                        <img src="https://www.roblox.com/headshot-thumbnail/image?userId=384621339&amp;width=150&amp;height=150&amp;format=png" style="width: 55px; border-radius: 100%;" />
+                                    </td>
+                                    <td style="padding-top: 25px;"><b style="font-size: 25px; margin-top: 15px;">elirahid</b></td>
+                                    <td style="padding-top: 21px;"><label class="badge badge-success" style="height: 40px; width: 65px; padding-top: 9px; font-size: 20px;">5 R$</label></td>
+                                </tr>
+                                </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container marketing py-5">
+        <div class="row">
+            <div class="col-lg-3"></div>
+            <div class="col-lg-6">
+                <a type="button" href="#/withdraw" class="btn btn-primary waves-effect waves-light btn-block">Claim Daily Reward!</a>
+            </div>
+            <div class="col-lg-3"></div>
+        </div>
+    </div>
+</div>

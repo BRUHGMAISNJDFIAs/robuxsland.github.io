@@ -1,0 +1,178 @@
+<div class="album py-5 bg-light" style="padding-top: 7px!important;">
+<div class="container">
+        <div class="row" style="margin-top: 10px;">
+            <div class="d-flex flex-row flex-nowrap overflow-auto" style="scroll-snap-type: x mandatory; width: 100%;">
+                <div class="col-12 col-md-4" style="scroll-snap-align: center;">
+                    <div class="card-block mx-1 fade-in-150" style="">
+                        <div class="bg-primary p-4 stats" style="background-image: url(assets/first-min.png); width: 100%;">
+                            <span><img src="assets/robux-png.png" style="width: 72px; float: right;" /></span>
+                            <div class="text-left text-white">
+                                <h2 class="counter text-white">8,203</h2>
+                                R$ STOCK
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 fade-in-150" style="scroll-snap-align: center;">
+                    <div class="bg-primary p-4 stats" style="background-image: url(assets/second-min.png);">
+                        <span><img src="assets/robux-png.png" style="width: 72px; float: right;" /></span>
+                        <div class="text-left text-white">
+                            <h2 class="counter text-white">6,437</h2>
+                            OFFERS DONE
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 fade-in-200" style="scroll-snap-align: center;">
+                    <div class="bg-primary p-4 stats" style="background-image: url(assets/rsz_1third-min_1-min.png);">
+                        <span><img src="assets/robux-png.png" style="width: 72px; float: right;" /></span>
+                        <div class="text-left text-white">
+                            <h2 class="counter text-white">27,602</h2>
+                            USERS
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row eid3_3me">
+            <h5 class="fade-in-100" style="margin-left: 10px; margin-top: 5px; padding: 5px;">Do these Starter Offers for Robux! 💰</h5>
+            <div class="d-flex flex-row flex-nowrap overflow-auto" style="scroll-snap-type: x mandatory;">
+                <div class="card card-block mx-2 fade-in-150 rfkn3_d3" style="
+    margin-left: 14px !important;
+">
+                    <div class="bg-primary p-4 stats Xydn3" style="background-image: url(assets/chests/rare-background-min.png);">
+                        <div class="text-left text-white" style="padding: 18px; height: 101px;">
+                            <h2 class="counter text-white">Welcome!</h2>
+                            Do some Starter Offers!
+                        </div>
+                        <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap INd39d">
+                            <span class="xya3_34">Swipe along 👉</span>
+                        </div>
+                        <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap Xkn3e_2e">
+                            <div class="row jn3_x2">
+                                <div class="col-6" style="padding-right: 0;">
+                                    <button onclick="document.getElementById('testa2').scrollIntoView();setTimeout(function(){$('#WelcomeModalPart1').modal('show')},500);setTimeout(function(){typeWriter()},500);" class="custom-btn-tab custom-blue custom-btn-xs Kedn3ex">
+                                        Tutorial
+                                        <i class="fas fa-question-circle"></i>
+                                    </button>
+                                </div>
+                                <div class="col-6" style="padding-left: 0;">
+                                    <button id="modalToggle" class="custom-btn-tab custom-btn-xs custom-green righ34id">CLOSE <i class="fas fa-times-circle"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-block mx-2 fade-in-250 rfkn3_d3">
+                    <div class="bg-primary p-4 stats Xydn3" style="background-image: url(https://cdn.discordapp.com/attachments/716819389130866738/744132879600058378/LvNXk2LvkwfFxhgUk2j5WL.jpg);">
+                            <div class="text-left text-white" style="padding: 18px; height: 101px;">
+                                <h2 class="counter text-white"></h2>
+                            </div>
+                            <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap INd39d">
+                                <span class="xya3_34">Minecraft Quiz - Get 100%</span>
+                            </div>
+                            <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap Xkn3e_2e">
+                                <div class="row jn3_x2">
+                                    <div class="col-6" style="padding-right: 0;">
+                                        <button id="modalToggle1" class="custom-btn-tab custom-blue custom-btn-xs Kedn3ex"><span>3 R$</span><img src="assets/robux-png.png" style="margin-left: 1px; width: 34px; margin-top: -3px;"></button>
+                                    </div>
+                                    <div class="col-6" style="padding-left: 0;">
+                                        <button id="modalToggle" class="custom-btn-tab custom-btn-xs custom-green righ34id">START <i class="fas fa-arrow-circle-right"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div><div class="card card-block mx-2 fade-in-250 rfkn3_d3">
+                    <div class="bg-primary p-4 stats Xydn3" style="background-image: url(https://cdn.discordapp.com/attachments/716819389130866738/744135793295228978/Screenshot_2020-08-15_at_11.09.48.png);">
+                            <div class="text-left text-white" style="padding: 18px; height: 101px;">
+                                <h2 class="counter text-white"></h2>
+                            </div>
+                            <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap INd39d">
+                                <span class="xya3_34">Install + Open (1 min)</span>
+                            </div>
+                            <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap Xkn3e_2e">
+                                <div class="row jn3_x2">
+                                    <div class="col-6" style="padding-right: 0;">
+                                        <button id="modalToggle1" class="custom-btn-tab custom-blue custom-btn-xs Kedn3ex"><span>3 R$</span><img src="assets/robux-png.png" style="margin-left: 1px; width: 34px; margin-top: -3px;"></button>
+                                    </div>
+                                    <div class="col-6" style="padding-left: 0;">
+                                        <button id="modalToggle" class="custom-btn-tab custom-btn-xs custom-green righ34id">START <i class="fas fa-arrow-circle-right"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div><div class="card card-block mx-2 fade-in-250 rfkn3_d3">
+                    <div class="bg-primary p-4 stats Xydn3" style="background-image: url(https://cdn.discordapp.com/attachments/719181714068340776/744194308172808233/dd0f0b82-bfb0-468f-ae11-32cc5e49dea3-min.jpg);">
+                            <div class="text-left text-white" style="padding: 18px; height: 101px;">
+                                <h2 class="counter text-white"></h2>
+                            </div>
+                            <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap INd39d">
+                                <span class="xya3_34">Install + Open (1 min) </span>
+                            </div>
+                            <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap Xkn3e_2e">
+                                <div class="row jn3_x2">
+                                    <div class="col-6" style="padding-right: 0;">
+                                        <button id="modalToggle1" class="custom-btn-tab custom-blue custom-btn-xs Kedn3ex"><span>3 R$</span><img src="assets/robux-png.png" style="margin-left: 1px; width: 34px; margin-top: -3px;"></button>
+                                    </div>
+                                    <div class="col-6" style="padding-left: 0;">
+                                        <button id="modalToggle" class="custom-btn-tab custom-btn-xs custom-green righ34id">START <i class="fas fa-arrow-circle-right"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div><div class="card card-block mx-2 fade-in-250 rfkn3_d3">
+                    <div class="bg-primary p-4 stats Xydn3" style="background-image: url(https://cdn.discordapp.com/attachments/733272089825509437/781150243600597042/D8NKVtxXsAA485f-min.jpg);">
+                            <div class="text-left text-white" style="padding: 18px; height: 101px;">
+                                <h2 class="counter text-white"></h2>
+                            </div>
+                            <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap INd39d">
+                                <span class="xya3_34">Install + Sign up (4 mins)</span>
+                            </div>
+                            <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three maincard-three-snap Xkn3e_2e">
+                                <div class="row jn3_x2">
+                                    <div class="col-6" style="padding-right: 0;">
+                                        <button id="modalToggle1" class="custom-btn-tab custom-blue custom-btn-xs Kedn3ex"><span>3 R$</span><img src="assets/robux-png.png" style="margin-left: 1px; width: 34px; margin-top: -3px;"></button>
+                                    </div>
+                                    <div class="col-6" style="padding-left: 0;">
+                                        <button id="modalToggle" class="custom-btn-tab custom-btn-xs custom-green righ34id">START <i class="fas fa-arrow-circle-right"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="my-3 p-3 bg-white rounded shadow-sm text-left maincard" id="testa2">
+            <div class="row">
+                <div class="col-md-3 text-center mb-pr-0" style="width: 100%;">
+                    <h4 class="text-center fade-in-100" style="margin-top: 17px; margin-bottom: 9px;">Options</h4>
+                    <button class="custom-btn-tab isClicked dt-w-90 fade-in-150" id="adgate">Best <i class="fas fa-fire" aria-hidden="true"></i></button>
+                    <button class="custom-btn-tab dt-w-90 fade-in-200" id="ayet">Fast <i class="fas fa-bolt" aria-hidden="true"></i></button>
+                    <button class="custom-btn-tab dt-w-90 fade-in-250" id="adgem">Easy <i aria-hidden="true" class="fas fa-money-bill-alt"></i></button>
+                    <button class="custom-btn-tab dt-w-90 fade-in-300" id="offertoro">New <i class="fas fa-comet" aria-hidden="true"></i></button>
+                    <hr />
+                    <a class="btn btn-danger text-white waves-effect waves-light extra-btn btn-youtube fade-in-350" style="background-color: #f2173f;">Subscribe! +0.25</a>
+                    <a class="btn bg-purple text-white waves-effect waves-light extra-btn btn-discord fade-in-400">Join Discord! +0.25</a>
+                </div>
+                <div class="col-md-9 offers-col" style="overflow-y: hidden;">
+                    <div class="my-3 p-3 bg-white rounded shadow-sm text-center maincard-two fade-in-100">
+                        <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three fade-in-150">
+                            Earn Robux &#x1F447;
+                        </div>
+                        <iframe class="afiframe" frameborder="0" id="adgate" src="https://rbx.fun/pages/loading.html" width="100%" height="90%"></iframe>
+                        <iframe class="afiframe" frameborder="0" id="ayet" src="https://rbx.fun/pages/loading.html" width="0%" height="0%"></iframe>
+                        <iframe class="afiframe" frameborder="0" id="adgem" src="https://rbx.fun/pages/loading.html" width="0%" height="0%"></iframe>
+                        <iframe class="afiframe" frameborder="0" id="offertoro" src="https://rbx.fun/pages/loading.html" width="0%" height="0%"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container marketing py-5">
+    <div class="row">
+        <div class="col-lg-6 mx-auto">
+            <a href="#/withdraw" type="button" class="btn btn-primary waves-effect waves-light btn-block">Claim Daily Reward!</a>
+        </div>
+    </div>
+</div>

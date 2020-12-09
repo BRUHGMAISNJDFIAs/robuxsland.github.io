@@ -1,0 +1,97 @@
+<section class="jumbotron text-center banner-loot fade-in-100" style="border-radius: 0;background-image:url('https://cdn.discordapp.com/attachments/700762417017389136/772208174148616273/e1160b7288b066099e3eacd4459b8c94.png')!important;padding-top: 75px;">
+    <div class="container">
+        <img alt="Robux" src="https://cdn.discordapp.com/attachments/775149859564421170/782977056534822952/ROBUX_LAND.png" style="width: 100%; max-width: 400px;" />
+        <p></p>
+        <div class="row">
+            <div class="col-md-12">
+                <button class="christmas-button custom-btn-nw custom-red modal-btn mx-auto" style="cursor: pointer !important; outline: 0;min-width: 300px;width: 50%;max-width: 450px;-webkit-transition: all 0.15s ease-out!important;transition: all 0.15s ease-out!important;border-radius:12px!important;">START!</button>
+            </div>
+        </div>
+        <p></p>
+    </div>
+</section>
+<div class="row main-row">
+    <div class="col-md-6 mx-auto fade-in-200" style="margin-right: 10px; margin-left: 10px;">
+        <div style="background-color: #e8e8e8; border-radius: 7px; padding: 5px;border-radius: 217px 18px 206px 16px/13px 178px 7px 42px !important;padding-bottom: 0px; margin-bottom: 30px; width: 100%;">
+            <h3 class="text-center" style="font-size: 25px;">700K+ Robux Earned!<img alt="Robux" src="assets/robux.png" style="margin-bottom: 6px; width: 55px; margin-left: 9px;" /></h3>
+        </div>
+    </div>
+</div>
+<div class="album py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center fade-in-250" style="margin-bottom: 30px;">Open this free chest!</h2>
+        <div class="row index-row">
+            <div class="col-md-4 chest-card chest-card-main fade-in-300">
+                <div style="margin: 0px!important;padding-left: 19%;">
+                    <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three" style="padding: 5px !important;font-size: 25px;background-color: #656565 !important;margin-top: 0px!important;">&nbsp;</div>
+                    <div style="background-color: #efefef;border-radius: 5px;padding: 15px;">
+                        <div class="video-container">
+                            <img alt="Chest" src="assets/chests/basic-mystery-min.png" style="
+                                ">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 chest-card">
+                <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three" style="padding: 5px !important; font-size: 25px; background-color: #9a9a9a !important;">STARTER CHEST</div>
+                <div style="background-color: #efefef; border-radius: 5px; padding: 15px;">
+                    <div>
+                        <img alt="Chest" src="assets/chests/event-chest.png" />
+                    </div>
+                    <button class="custom-btn custom-btn-xs" style="outline: none !important; padding-top: 5px !important; width: 100%; padding-bottom: 5px !important;">
+                    OPEN!
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-4 chest-card chest-card-main">
+                <div style="width: 79%;">
+                    <div class="my-3 bg-primary rounded p-3 shadow-sm text-center maincard-three" style="padding: 5px !important;font-size: 25px;background-color: #656565 !important;margin-top: 0px!important;">&nbsp;</div>
+                    <div style="background-color: #efefef;border-radius: 5px;padding: 15px;">
+                        <div class="video-container">
+                            <img alt="Chest" src="assets/chests/basic-mystery-min.png"">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container marketing py-5" style="">
+    <div class="container" style="margin-bottom: 20px;">
+        <h3 style="text-align: center; margin-bottom: 20px;">How does this work?</h3>
+        <hr />
+        <div class="row" style="margin-top: 40px;">
+            <div class="col-md-4 col-xs-12 col-sm-4">
+                <div class="text-center">
+                    <img src="https://i.imgur.com/WEThWmY.png" style="width: 80px; margin-bottom: 10px;" />
+
+                    <h3 style="font-weight: 700;">1. Sign up</h3>
+                    <p style="font-family: 'Roboto'; font-weight: bold;">Enter your <strong>ROBLOX</strong> username to begin, no other information is required.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-xs-12 col-sm-4">
+                <div class="text-center">
+                    <img src="https://i.imgur.com/lgWbn7M.png" style="margin-bottom: 10px;" />
+
+                    <h3 style="font-weight: 700;">2. Earn Points</h3>
+                    <p style="font-family: 'Roboto'; font-weight: bold;">Complete tasks to <strong>earn</strong> points. You can download mobile apps and watch videos!</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-xs-12 col-sm-4">
+                <div class="text-center">
+                    <img src="https://i.imgur.com/kIRYYSo.png" style="width: 150px;" />
+
+                    <h3 style="font-weight: 700;">3. Redeem Points</h3>
+                    <p style="font-family: 'Roboto'; font-weight: bold;"><strong>Redeem</strong> your points on the claim page and receive them by joining a group.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-3"></div>
+        <div class="col-lg-6">
+            <button class="btn btn-primary waves-effect waves-light btn-block">Claim Promocode!</button>
+        </div>
+        <div class="col-lg-3"></div>
+    </div>
+</div>
